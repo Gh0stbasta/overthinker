@@ -17,6 +17,12 @@ Minimalistisches Kurz-Camping mit der Familie – von der harmlosen Idee zum det
 - [💡 Die ursprüngliche Idee](./family-overnighter/idea.md)
 - [📝 Der komplette Overthink](./family-overnighter/notes.md)
 
+### 💧 [Sommer-Poolwasser-Hack](./sommer-poolwasser-hack/)
+Cleverer Umgang mit Pool-Wasser für Hausbesitzer – von der einfachen Idee zur kompletten Kalkulation.
+
+- [💡 Die ursprüngliche Idee](./sommer-poolwasser-hack/idea.md)
+- [📝 Der komplette Overthink](./sommer-poolwasser-hack/notes.md)
+
 ---
 
 ## 🎯 Wie du das liest
