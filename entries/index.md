@@ -23,6 +23,12 @@ Cleverer Umgang mit Pool-Wasser für Hausbesitzer – von der einfachen Idee zur
 - [💡 Die ursprüngliche Idee](./sommer-poolwasser-hack/idea.md)
 - [📝 Der komplette Overthink](./sommer-poolwasser-hack/notes.md)
 
+### 🏋️‍♂️ [Fitnessstruktur Minimalistisch](./fitnessstruktur-minimalistisch/)
+Alltagstaugliche Fitnessroutine für Familie und mentale Stärke – von der einfachen Idee zur kompletten Jahresplanung.
+
+- [💡 Die ursprüngliche Idee](./fitnessstruktur-minimalistisch/idea.md)
+- [📝 Der komplette Overthink](./fitnessstruktur-minimalistisch/notes.md)
+
 ---
 
 ## 🎯 Wie du das liest
