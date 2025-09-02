@@ -1,3 +1,8 @@
+---
+layout: default
+title: Sommer-Poolwasser-Hack - Der komplette Overthink
+---
+
 # 💧 Der Sommer-Poolwasser-Hack für Hausbesitzer
 
 Cleverer Umgang mit Wasser, Energie und Gartenpflege – nachhaltig, günstig und ohne Chemie.

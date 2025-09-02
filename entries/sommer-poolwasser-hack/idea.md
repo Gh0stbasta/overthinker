@@ -1,3 +1,8 @@
+---
+layout: default
+title: Sommer-Poolwasser-Hack - Die Ursprungsidee
+---
+
 # 💧 Sommer-Poolwasser-Hack – Die Ursprungsidee
 
 Was wenn wir einen kleinen Pool nicht nur zum Baden nutzen, sondern das Wasser anschließend für den Garten verwenden?
@@ -6,4 +11,6 @@ So eine Art doppelte Nutzung – ein paar Tage plantschen, dann das warme Wasser
 
 Das könnte doch eine clevere Art sein, im Sommer sowohl Badespaß als auch Gartenpflege zu kombinieren, ohne Wasser zu verschwenden...
 
-*[Und dann kam die Kalkulation... siehe notes.md]*
+---
+
+**➡️ [Zum kompletten Overthink](notes)**

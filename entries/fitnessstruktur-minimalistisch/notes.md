@@ -1,3 +1,8 @@
+---
+layout: default
+title: Fitnessstruktur Minimalistisch - Der komplette Overthink
+---
+
 # 🏋️‍♂️ Fitnessstruktur – Minimalistisch, Alltagstauglich & Effektiv
 
 ## 🎯 Ziel
