@@ -11,19 +11,19 @@ Willkommen im Herz des Todeskreisels. Hier sind alle meine eskalierten Gedanken 
 
 ## 📁 Verfügbare Einträge
 
-### 🏕️ [Family-Overnighter](entries/family-overnighter/)
+### 🏕️ Family-Overnighter
 Minimalistisches Kurz-Camping mit der Familie – von der harmlosen Idee zum detaillierten Masterplan.
 
 - [💡 Die ursprüngliche Idee](entries/family-overnighter/idea)
 - [📝 Der komplette Overthink](entries/family-overnighter/notes)
 
-### 💧 [Sommer-Poolwasser-Hack](entries/sommer-poolwasser-hack/)
+### 💧 Sommer-Poolwasser-Hack
 Cleverer Umgang mit Pool-Wasser für Hausbesitzer – von der einfachen Idee zur kompletten Kalkulation.
 
 - [💡 Die ursprüngliche Idee](entries/sommer-poolwasser-hack/idea)
 - [📝 Der komplette Overthink](entries/sommer-poolwasser-hack/notes)
 
-### 🏋️‍♂️ [Fitnessstruktur Minimalistisch](entries/fitnessstruktur-minimalistisch/)
+### 🏋️‍♂️ Fitnessstruktur Minimalistisch
 Alltagstaugliche Fitnessroutine für Familie und mentale Stärke – von der einfachen Idee zur kompletten Jahresplanung.
 
 - [💡 Die ursprüngliche Idee](entries/fitnessstruktur-minimalistisch/idea)
