@@ -1,3 +1,8 @@
+---
+layout: default
+title: Family-Overnighter - Der komplette Overthink
+---
+
 # 🏕️ Family-Overnighter – Gesamtüberblick (Update 2)
 
 ---

@@ -11,23 +11,23 @@ Willkommen im Herz des Todeskreisels. Hier sind alle meine eskalierten Gedanken 
 
 ## 📁 Verfügbare Einträge
 
-### 🏕️ [Family-Overnighter](./family-overnighter/)
+### 🏕️ [Family-Overnighter](entries/family-overnighter/)
 Minimalistisches Kurz-Camping mit der Familie – von der harmlosen Idee zum detaillierten Masterplan.
 
-- [💡 Die ursprüngliche Idee](./family-overnighter/idea.md)
-- [📝 Der komplette Overthink](./family-overnighter/notes.md)
+- [💡 Die ursprüngliche Idee](entries/family-overnighter/idea)
+- [📝 Der komplette Overthink](entries/family-overnighter/notes)
 
-### 💧 [Sommer-Poolwasser-Hack](./sommer-poolwasser-hack/)
+### 💧 [Sommer-Poolwasser-Hack](entries/sommer-poolwasser-hack/)
 Cleverer Umgang mit Pool-Wasser für Hausbesitzer – von der einfachen Idee zur kompletten Kalkulation.
 
-- [💡 Die ursprüngliche Idee](./sommer-poolwasser-hack/idea.md)
-- [📝 Der komplette Overthink](./sommer-poolwasser-hack/notes.md)
+- [💡 Die ursprüngliche Idee](entries/sommer-poolwasser-hack/idea)
+- [📝 Der komplette Overthink](entries/sommer-poolwasser-hack/notes)
 
-### 🏋️‍♂️ [Fitnessstruktur Minimalistisch](./fitnessstruktur-minimalistisch/)
+### 🏋️‍♂️ [Fitnessstruktur Minimalistisch](entries/fitnessstruktur-minimalistisch/)
 Alltagstaugliche Fitnessroutine für Familie und mentale Stärke – von der einfachen Idee zur kompletten Jahresplanung.
 
-- [💡 Die ursprüngliche Idee](./fitnessstruktur-minimalistisch/idea.md)
-- [📝 Der komplette Overthink](./fitnessstruktur-minimalistisch/notes.md)
+- [💡 Die ursprüngliche Idee](entries/fitnessstruktur-minimalistisch/idea)
+- [📝 Der komplette Overthink](entries/fitnessstruktur-minimalistisch/notes)
 
 ---
 
