@@ -4,7 +4,7 @@
 
 - Energie & Ausdauer für den Alltag mit Familie
 - Kraft, die im echten Leben funktioniert (Tragen, Heben, Toben)
-- Gesundes Gewicht (~72–74 kg), definierte Muskulatur
+- Gesundes Gewicht, definierte Muskulatur
 - Mentale Stärke & Stressabbau durch tägliche Bewegung
 - Nachhaltig fit bleiben – ohne Fitness-Wahn
 
@@ -50,13 +50,13 @@
 
 | Rad   | Setup                                                          | Funktion                 |
 | ----- | -------------------------------------------------------------- | ------------------------ |
-| Focus | Conti GP5000 28 mm, 5.6 bar, gewachste Kette, Alu-Felgen       | Performance & Genussrad  |
-| Cube  | Terra Trail 40 mm @ 2.2 bar, hoher Rollwiderstand, Fulcrum LRS | Trainings-Widerstandsrad |
+| Rennrad | Conti GP5000 28 mm, 5.6 bar, gewachste Kette, Alu-Felgen       | Performance & Genussrad  |
+| Gravelbike  | Terra Trail 40 mm @ 2.2 bar, hoher Rollwiderstand, Fulcrum LRS | Trainings-Widerstandsrad |
 
 - Dauer: 90 Minuten  
 - Fokus:  
-  - Mit dem **Cube**: wattintensives Grundlagentraining (ca. +40 W real)  
-  - Mit dem **Focus**: Langstrecke, Tempo, Gruppenkompatibilität
+  - Mit dem **Gravelbike**: wattintensives Grundlagentraining (ca. +40 W real)  
+  - Mit dem **Rennrad**: Langstrecke, Tempo, Gruppenkompatibilität
 
 ---
 
@@ -89,7 +89,7 @@
 
 ---
 
-# 🗾 MinimaX Jahresstruktur – Eventbasiert
+# 🗾 Jahresstruktur – Eventbasiert
 
 **Ziel:** Zwei Events pro Jahr als freundliche Wegmarken.  
 **System:** Calisthenics daily, 2× Laufen/Woche, 1× Longride/Woche.  
@@ -99,18 +99,18 @@
 
 ## 🗓 Events als Anker
 
-### 🏃 Februar → **Bad Füssing Halbmarathon**
+### 🏃 Februar → **Halbmarathon**
 
 - Flach, winterfreundlich  
 - Kein Tempoziel, nur Ankommen  
 - Bewegung durch den Winter erhalten
 
-### 🚴 Juni → **Mondsee Radmarathon**
+### 🚴 Juni → **Radmarathon**
 
 - Langstrecke mit Aussicht  
 - 200+ km als Erlebnis, nicht als Leistung  
 - Einfach fahren, einfach fließen  
-- Zielzeit realistisch: **7:15–7:45 h** (mit Focus)
+- Zielzeit realistisch: **8h** (mit Rennrad)
 
 ---
 
@@ -120,7 +120,7 @@
 | ------------ | ------------------------------------------------ |
 | **Jan–Feb**  | Laufkonstanz • systemisches Laufen (Z2 optional) |
 | **März–Mai** | Radausdauer aufbauen • Longrides steigern        |
-| **Juni**     | Mondsee fahren • feiern                          |
+| **Juni**     | Radmarathon fahren • feiern                          |
 | **Juli–Aug** | Bewegung nach Lust • systemische Erholung        |
 | **Sep–Dez**  | Basis halten • Calisthenics & Laufen pflegen     |
 
@@ -130,10 +130,6 @@
 
 - Kein „Trainingsplan", sondern **Bewegungskultur**  
 - Kein „Ziel", sondern **Resonanzraum**  
-- MinimaX = Wenig. Immer. Mit Wirkung.
-
-„Ich bleib in Bewegung, damit ich nicht alt werde, bevor's nötig ist."
-
+- Wenig. Immer. Mit Wirkung.
+  
 „Ich bewege mich, damit ich frisch bleibe – körperlich, geistig, menschlich."
-
-„Ich mach keine Challenges. Ich bleib einfach im Spiel."
