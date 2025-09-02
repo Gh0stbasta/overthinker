@@ -1,32 +1,41 @@
 ---
 layout: default
-title: Willkommen im Overthinking Archive
+title: Overthinking Entries
 ---
 
-# 🌀 Willkommen im Overthinking Archive
+# 🌀 Overthinking Entries
 
-Du bist hier gelandet?  
-Dann hast du entweder zu viel Zeit oder bist genauso anfällig für den **Todeskreisel des Denkens** wie ich.  
-
----
-
-## Was ist das hier?
-Eine Sammlung meiner Gedanken, die klein angefangen haben  
-und dann eskaliert sind, bis sie in den Overthinking-Olymp aufgestiegen sind.  
-
-Hier findest du:
-- **Ideen**, die eigentlich harmlos waren  
-- **Notizen**, die alles schlimmer machen  
-- **Skizzen**, die den Wahnsinn bebildern  
+Willkommen im Herz des Todeskreisels. Hier sind alle meine eskalierten Gedanken gesammelt.
 
 ---
 
-## Erste Schritte
-👉 [Entries durchstöbern](./entries)  
-👉 Oder einfach den Kopf schütteln und die Seite wieder schließen 😅  
+## 📁 Verfügbare Einträge
+
+### 🏕️ [Family-Overnighter](./family-overnighter/)
+Minimalistisches Kurz-Camping mit der Familie – von der harmlosen Idee zum detaillierten Masterplan.
+
+- [💡 Die ursprüngliche Idee](./family-overnighter/idea.md)
+- [📝 Der komplette Overthink](./family-overnighter/notes.md)
+
+### 💧 [Sommer-Poolwasser-Hack](./sommer-poolwasser-hack/)
+Cleverer Umgang mit Pool-Wasser für Hausbesitzer – von der einfachen Idee zur kompletten Kalkulation.
+
+- [💡 Die ursprüngliche Idee](./sommer-poolwasser-hack/idea.md)
+- [📝 Der komplette Overthink](./sommer-poolwasser-hack/notes.md)
+
+### 🏋️‍♂️ [Fitnessstruktur Minimalistisch](./fitnessstruktur-minimalistisch/)
+Alltagstaugliche Fitnessroutine für Familie und mentale Stärke – von der einfachen Idee zur kompletten Jahresplanung.
+
+- [💡 Die ursprüngliche Idee](./fitnessstruktur-minimalistisch/idea.md)
+- [📝 Der komplette Overthink](./fitnessstruktur-minimalistisch/notes.md)
 
 ---
 
-## Warnung ☠️
-Dies ist ein Karussell ohne Not-Aus-Knopf.  
-Lesen auf eigene Gefahr. 🎠
+## 🎯 Wie du das liest
+1. **Fang mit `idea.md` an** – da klingt noch alles vernünftig
+2. **Dann zu `notes.md`** – hier beginnt der Abstieg in den Overthinking-Abgrund
+3. **Optional:** Schau in `sketches/`, wenn du visuell mitleiden willst
+
+---
+
+⬅️ [Zurück zur Hauptseite](../)
